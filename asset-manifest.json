@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wda-miniblog/static/css/main.9d3d0360.css",
-    "main.js": "/wda-miniblog/static/js/main.8a9ece97.js",
+    "main.js": "/wda-miniblog/static/js/main.01ae7bbb.js",
     "index.html": "/wda-miniblog/index.html",
     "main.9d3d0360.css.map": "/wda-miniblog/static/css/main.9d3d0360.css.map",
-    "main.8a9ece97.js.map": "/wda-miniblog/static/js/main.8a9ece97.js.map"
+    "main.01ae7bbb.js.map": "/wda-miniblog/static/js/main.01ae7bbb.js.map"
   },
   "entrypoints": [
     "static/css/main.9d3d0360.css",
-    "static/js/main.8a9ece97.js"
+    "static/js/main.01ae7bbb.js"
   ]
 }
